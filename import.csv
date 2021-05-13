@@ -1,0 +1,16 @@
+### AUTOFILL PROFILES ###,,,,,,
+Profile ID,Name,Site,Hotkey,,,
+### AUTOFILL RULES ###,,,,,,
+Rule ID,Type,Name,Value,Site,Mode,Profile
+r20,4,"","document.getElementsByName('set_sc')[0].checked = true;
+document.getElementsByName('set_ytc')[0].checked = true;
+document.getElementsByName('set_aps')[0].checked = true;
+document.getElementsByName('set_apw')[0].checked = true;
+document.getElementsByClassName('button')[1].click();","consent.youtube.com",0,
+r38,4,"","document.getElementsByName('set_sc')[0].checked = true;
+document.getElementsByName('set_ytc')[0].checked = true;
+document.getElementsByName('set_aps')[0].checked = true;
+document.getElementsByName('set_apw')[0].checked = true;
+document.getElementsByClassName('button')[1].click();","consent.google.com",0,
+r37,4,"","document.getElementById('VnjCcb').click();","google.com",0,
+r39,4,"","document.getElementsByClassName('button')[1].click();","consent.youtube.com",0,
